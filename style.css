@@ -8,7 +8,7 @@
   .hero{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(45deg, #08001f, #30197d);
+    background: linear-gradient(45deg, #083644, #5c192d);
     color: #fff;
     position: relative;
   }
@@ -37,7 +37,7 @@
     content: '';
     width: 180px;
     height: 180px;
-    background: #f41b75;
+    background: #ee2fbe;
     border-radius: 5px;
     position: absolute;
     left: -50px;
@@ -49,7 +49,7 @@
     content: '';
     width: 180px;
     height: 180px;
-    background: #419aff;
+    background: #63dbff;
     border-radius: 50%;
     position: absolute;
     right: -30px;
